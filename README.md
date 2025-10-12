@@ -4,11 +4,12 @@
 
 ## 🚀 About Me
 
-I’m a **Data Scientist** with a solid background in **Information Systems and Control Management Engineering**, passionate about turning data into actionable insights.  
-I specialize in **data analysis, process optimization, and business intelligence** — helping organizations make **data-driven decisions** that drive growth and efficiency.  
+I’m a **Data Scientist** with a background in **Information Systems and Control Management Engineering**, passionate about **data-driven solutions** and **Generative AI**.  
+I focus on **data analysis, machine learning, and process optimization** to create smart, efficient, and scalable systems.  
 
-Bilingual in **English** and **Spanish**, I thrive in **fast-paced environments**, quickly adapt to new technologies, and enjoy tackling complex problems through analytical thinking.  
-Currently, I’m **expanding my expertise in Cybersecurity** alongside **Data Science** and **Machine Learning** through hands-on projects and professional certifications.  
+Currently, I’m expanding my expertise in **Cybersecurity** and **AI applications**, exploring how intelligent models can strengthen security and drive innovation.  
+Bilingual in **English** and **Spanish**, I enjoy learning, building, and experimenting with real-world data projects.
+  
 
 ---
 
@@ -49,15 +50,18 @@ Currently, I’m **expanding my expertise in Cybersecurity** alongside **Data Sc
 
 ---
 
+
 ## 📜 Certifications
 
-- **Certified in Cybersecurity (CC)** — ISC² *(July 2025)*  
-- **Digital Transformation Management** — Arizona State University *(Sep 2024)*  
-- **Data Science Practitioner** — IBM *(May 2024)*  
-- **Artificial Intelligence Practitioner** — IBM *(May 2024)*  
-- **Alteryx Designer Core** — Alteryx *(Feb 2024)*  
-- **Google Data Analytics Professional Certificate** — Google *(May 2023)*  
-- **Scrum Fundamentals Certified** — Scrum Study *(Oct 2022)*  
+- **Oracle Cloud Infrastructure 2025 Data Science Professional (1Z0-1110-25)** — Oracle *(Oct 2025)*
+- **Certified in Cybersecurity (CC)** — ISC² *(Jul 2025)*
+- **Digital Transformation Management** — Arizona State University *(Sep 2024)*
+- **Data Science Practitioner** — IBM *(May 2024)*
+- **Artificial Intelligence Practitioner** — IBM *(May 2024)*
+- **Alteryx Designer Core** — Alteryx *(Feb 2024)*
+- **Google Data Analytics Professional Certificate** — Google *(May 2023)*
+- **Scrum Fundamentals Certified** — Scrum Study *(Oct 2022)*
+
 
 ---
 
