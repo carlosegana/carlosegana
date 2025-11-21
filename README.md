@@ -52,7 +52,7 @@ Bilingual in **English** and **Spanish**, I enjoy learning, building, and experi
 
 
 ## 📜 Certifications
-
+- **Oracle Cloud Infrastructure 2025 Generative AI Professional (1Z0-1127-25)** — Oracle *(Oct 2025)*
 - **Oracle Cloud Infrastructure 2025 Data Science Professional (1Z0-1110-25)** — Oracle *(Oct 2025)*
 - **Certified in Cybersecurity (CC)** — ISC² *(Jul 2025)*
 - **Digital Transformation Management** — Arizona State University *(Sep 2024)*
