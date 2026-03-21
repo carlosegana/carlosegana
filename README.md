@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Carlos Egaña
 
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b21e8eaf-9ac4-42f3-9e81-07e27f6385be" alt="Carlos Egana Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/c98c1d5c-c617-4cff-a2a6-c4c2dca635a9" alt="Carlos Egana Banner" width="100%">
 </div>
 
 <br/>
