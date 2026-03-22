@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carlos Egaña
+# 👋 Hi, I'm Carlos Egana
 
 
 <div align="center">
