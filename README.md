@@ -1,146 +1,162 @@
-# 👋 Hi, I'm Carlos Egana
-
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c98c1d5c-c617-4cff-a2a6-c4c2dca635a9" alt="Carlos Egana Banner" width="100%">
+
+<img src="https://github.com/user-attachments/assets/c98c1d5c-c617-4cff-a2a6-c4c2dca635a9" alt="Carlos Egaña — AI Engineer" width="100%">
+
+<br/><br/>
+
+**AI Engineer** &nbsp;—&nbsp; LLM Systems · Agentic AI · Production Deployment
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3400&pause=1100&color=36BCF7&center=true&vCenter=true&width=860&lines=%24+whoami+--verbose;I+ship+LLM+systems+to+production%2C+not+just+notebooks;Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Tool+use+%C2%B7+Evals" alt="Typing SVG">
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7)](https://www.linkedin.com/in/carlosegana)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=36BCF7)](mailto:carloseganac@gmail.com)
+&nbsp;
+[![Singapore](https://img.shields.io/badge/Singapore-0d1117?style=for-the-badge&logo=googlemaps&logoColor=36BCF7)](https://www.linkedin.com/in/carlosegana)
+
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=860&lines=Building+end-to-end+Generative+AI+solutions;LLMs+%C2%B7+Machine+Learning+%C2%B7+Statistical+Analysis;Information+Systems+%26+Control+Mgmt+Engineer;Turning+raw+data+into+intelligent+applications" alt="Typing SVG">
-  </a>
-</p>
+## `> whoami`
+
+```jsonc
+// carlos@ai-engineer:~$ cat profile.jsonc
+{
+  "role":       "AI Engineer",
+  "team":       "Data & AI — BDO Singapore",
+  "domain":     "Enterprise GenAI: audit · tax · advisory · ESG",
+  "focus":      ["Agentic systems", "MCP", "RAG", "LLM orchestration"],
+  "language":   "Python-first",
+  "background": "Information Systems & Control Management Engineering",
+  "status":     "Shipping LLM systems to production"
+}
+```
+
+**Agents, not chatbots.** I build agentic systems that plan, call tools, and execute multi-step workflows — function calling, MCP servers, and multi-agent orchestration over real enterprise data.
+
+**Production over prototypes.** I own the full lifecycle: Python services → LLM integration → containerized deployment on AWS → monitoring, evals, and usage analytics.
+
+**Enterprise constraints.** My systems survive real-world requirements: compliance, security reviews, cost control, and non-technical end users.
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-090e1a?style=flat-square&logo=python&logoColor=36BCF7&labelColor=090e1a&color=090e1a"/>
-  <img src="https://img.shields.io/badge/SQL-090e1a?style=flat-square&logo=postgresql&logoColor=36BCF7&labelColor=090e1a&color=090e1a"/>
-  <img src="https://img.shields.io/badge/R-090e1a?style=flat-square&logo=r&logoColor=36BCF7&labelColor=090e1a&color=090e1a"/>
-  <img src="https://img.shields.io/badge/LLMs-090e1a?style=flat-square&logo=openai&logoColor=5eead4&labelColor=090e1a&color=090e1a"/>
-  <img src="https://img.shields.io/badge/Generative_AI-090e1a?style=flat-square&logo=anthropic&logoColor=5eead4&labelColor=090e1a&color=090e1a"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-090e1a?style=flat-square&logo=scikitlearn&logoColor=5eead4&labelColor=090e1a&color=090e1a"/>
-</p>
+## `> skills --matrix`
 
+| `LLM_SYSTEMS` | `AGENTIC_AI` | `ENGINEERING` |
+|:---|:---|:---|
+| RAG pipelines & vector search | Multi-agent orchestration | Python services · FastAPI |
+| Prompt engineering & evals | Tool use / function calling | Docker & containerization |
+| Structured outputs & context mgmt | MCP — Model Context Protocol | AWS · ECR · App Runner |
+| Claude API · OpenAI API | Agent evaluation & guardrails | Monitoring & usage analytics |
 
-## 🚀 About Me
+<br/>
 
-I'm a **Data Scientist & AI Engineer** specializing in **end-to-end Generative AI solutions**. With a background in **Information Systems and Control Management Engineering**, I build **scalable, production-ready applications** powered by AI.  
+## `> stack --list`
 
-I focus on **data analysis, machine learning, LLMs, and Generative AI**, delivering systems that are **efficient, reproducible, and deployable**.  
+<div align="center">
 
-Fluent in **English and Spanish**, I enjoy **designing and deploying AI-driven applications**, turning complex data into **intelligent, interactive, and user-ready solutions**.
+**CORE ENGINEERING**
 
----
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,postgres,git&theme=dark" alt="Core Engineering"/>
 
-## 🛠️ Tech Stack & Tools
+**AI / LLM TOOLING**
 
-### 💻 Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=36BCF7)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=36BCF7)](#)
+[![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iIzM2QkNGNyI+PGNpcmNsZSBjeD0iNSIgY3k9IjEyIiByPSIzIi8+PGNpcmNsZSBjeD0iMTkiIGN5PSI1IiByPSIzIi8+PGNpcmNsZSBjeD0iMTkiIGN5PSIxOSIgcj0iMyIvPjwvZz48ZyBzdHJva2U9IiMzNkJDRjciIHN0cm9rZS13aWR0aD0iMS44IiBmaWxsPSJub25lIj48cGF0aCBkPSJNNy42IDEwLjdMMTYuNCA2LjMiLz48cGF0aCBkPSJNNy42IDEzLjNMMTYuNCAxNy43Ii8+PC9nPjwvc3ZnPg==)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=36BCF7)](#)
 
-### 📊 Data Visualization & BI
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="ML Frameworks"/>
 
-### 🤖 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E00?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**ANALYTICS & DATA**
 
-### 🧠 AI & LLM Tools
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power_BI_·_DAX-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzM2QkNGNyIgZD0iTTMgMTNoNHY4SDN6TTEwIDhoNHYxM2gtNHpNMTcgM2g0djE4aC00eiIvPjwvc3ZnPg==)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=36BCF7)](#)
+[![Alteryx](https://img.shields.io/badge/Alteryx-0d1117?style=for-the-badge&logo=alteryx&logoColor=36BCF7)](#)
+[![SQL · R](https://img.shields.io/badge/SQL_·_R-0d1117?style=for-the-badge&logo=r&logoColor=36BCF7)](#)
 
-### 🌐 Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![App%20Runner](https://img.shields.io/badge/AWS%20App%20Runner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle%20Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+</div>
 
-### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0079C1?style=for-the-badge&logo=alteryx&logoColor=white)
+<br/>
 
----
-
-## 📜 Certifications
-
-| Certification | Provider | Date |
-|--------------|----------|------|
-| **Oracle Cloud Infrastructure 2025 Generative AI Professional** | Oracle | Oct 2025 |
-| **Oracle Cloud Infrastructure 2025 Data Science Professional** | Oracle | Oct 2025 |
-| **Certified in Cybersecurity (CC)** | ISC² | Jul 2025 |
-| **Digital Transformation Management** | Arizona State University | Sep 2024 |
-| **Data Science Practitioner** | IBM | May 2024 |
-| **Artificial Intelligence Practitioner** | IBM | May 2024 |
-| **Alteryx Designer Core** | Alteryx | Feb 2024 |
-| **Google Data Analytics Professional Certificate** | Google | May 2023 |
-| **Scrum Fundamentals Certified** | Scrum Study | Oct 2022 |
-
----
-
-## 🧠 Core Competencies
+## `> agent --architecture`
 
 ```python
-class CarlosEgana:
-    def __init__(self):
-        self.role = "Data Scientist & ML Engineer"
-        self.languages = ["Python", "SQL", "R", "Spanish", "English"]
-        self.specialties = [
-            "Machine Learning",
-            "Generative AI", 
-            "Data Visualization",
-            "Statistical Analysis",
-            "Process Optimization"
-        ]
-        self.current_focus = "Generative AI + AI-driven Applications"
-    
-    def solve_problem(self, data):
-        return "Actionable insights and production-ready AI solutions"
+# The pattern behind every agentic system I ship
+async def run_agent(task: Task) -> Result:
+    context = retrieve(task, vector_store)          # RAG: ground the model in real data
+    plan    = llm.plan(task, context)               # reasoning before acting
 
-me = CarlosEgana()
+    for step in plan:
+        tool   = registry.resolve(step)             # tool use via MCP servers
+        result = await tool.execute(step.args)      # typed, validated I/O
+        context.update(result)                      # feedback loop
+
+    return evaluate(context.output)                 # evals + guardrails before delivery
 ```
 
----
+<br/>
 
-## 📬 Let's Connect
+<!--
+## `> featured --production`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlosegana">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/carlosegana">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:carloseganac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-carloseganac%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+PLANTILLA — reemplaza con tus 2-3 mejores repos públicos y descomenta la sección:
 
----
+### ⚡ [Nombre del proyecto](link-al-repo)
+`One-line:` qué hace y qué problema resuelve.
+`Impact:` métrica o resultado concreto (usuarios, latencia, % mejora, adopción).
+`Stack:` Python · FastAPI · Claude API · MCP · Docker · AWS
+-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosegana&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
+## `> certs --verified`
 
-<p align="center">
-  <i>"Transforming data into intelligent solutions, one algorithm at a time."</i> 🤖✨
-</p>
+| Certification | Provider | Year |
+|:--------------|:---------|:-----|
+| **OCI Generative AI Professional** | Oracle | `2025` |
+| **OCI Data Science Professional** | Oracle | `2025` |
+| **Certified in Cybersecurity (CC)** | ISC² | `2025` |
+| **Digital Transformation Management** | Arizona State University | `2024` |
+| **Data Science Practitioner · AI Practitioner** | IBM | `2024` |
+| **Alteryx Designer Core** | Alteryx | `2024` |
+| **Google Data Analytics Professional** | Google | `2023` |
+
+<br/>
+
+## `> principles --core`
+
+```python
+def build(problem):
+    """How I approach every AI system."""
+    solution = (
+        understand(problem)          # business context before code
+        .simplify()                  # smallest architecture that works
+        .ship_early()                # production feedback > perfect prototypes
+        .measure()                   # if it's not monitored, it's not done
+    )
+    return solution                  # reproducible · documented · owned end-to-end
+```
+
+<br/>
+
+<div align="center">
+
+## `> connect`
+
+**Agentic AI · MCP · RAG Architecture · LLM Systems in Production**
+
+*I discuss architecture, trade-offs, and what it actually takes to run GenAI in enterprise.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7)](https://www.linkedin.com/in/carlosegana)
+&nbsp;
+[![Email](https://img.shields.io/badge/carloseganac@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=36BCF7)](mailto:carloseganac@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=carlosegana&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views">
+
+</div>
