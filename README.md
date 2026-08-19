@@ -117,6 +117,7 @@ PLANTILLA — reemplaza con tus 2-3 mejores repos públicos y descomenta la secc
 
 | Certification | Provider | Year |
 |:--------------|:---------|:-----|
+| **AWS Certified AI Practitioner (AIF-C01)** | Amazon Web Services | `2026` |
 | **OCI Generative AI Professional** | Oracle | `2025` |
 | **OCI Data Science Professional** | Oracle | `2025` |
 | **Certified in Cybersecurity (CC)** | ISC² | `2025` |
